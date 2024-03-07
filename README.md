@@ -2,8 +2,7 @@
   
 ## :satisfied: Information
 - **Name**: WooJung Lee  
-- **Contact**: [E-mail](wjlee612@gmail.com)  
-`wjlee612@gmail.com`
+- **Contact**: `wjlee612@gmail.com`
 
 ## :school: Education
 * **Sungkyunkwan Univ.** 
@@ -20,7 +19,7 @@
 * **Role**: Software Developer
 * **Responsibilities**
     * Development and maintenance of P&T R&D Systems
-    * Utilized C#, JAVA, Oracle SQL, and Data Modeling etc.
+    * Utilized <img src = "https://img.shields.io/badge/Csharp-EF5C55?style=flat&logo=csharp&logoColor=white"><img src = "https://img.shields.io/badge/JAVA-6CADDF?style=flat&logo=java&logoColor=white"><img src = "https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=oracle&logoColor=white"><img src = "https://img.shields.io/badge/DataModeling-770C56?style=flat&logoColor=white"> etc.
 
 ## :book: Teaching Experience
 * **Basis and Practice in Programming, Teaching Assistant** at Sungkyunkwan Univ. (Fall 2019, Spring 2019)
@@ -47,15 +46,11 @@
 * **[Graph Clustering with Link Structure and Node Attributes](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503594)**
 * **[Cascading Behavior and Information Diffusion in Overlapping Clusters](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07503594)** (Journal of KIISE, Volume 47. Number 4. APRIL 2020)
 
-## :hatching_chick: Skills
-<img src = "https://img.shields.io/badge/JAVA-6CADDF?style=flat&logo=java&logoColor=white">
-<img src = "https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
-<img src = "https://img.shields.io/badge/maven-C71A36?style=flat&logo=apachemaven&logoColor=white">
-<img src = "https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
-<img src = "https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-<img src = "https://img.shields.io/badge/Csharp-EF5C55?style=flat&logo=csharp&logoColor=white">
-<img src = "https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
-<img src = "https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
-<img src = "https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
-<img src = "https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=oracle&logoColor=white">
-<img src = "https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
+## :hatched_chick: Skills
+<img src = "https://img.shields.io/badge/JAVA-6CADDF?style=flat&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white"> <img src = "https://img.shields.io/badge/maven-C71A36?style=flat&logo=apachemaven&logoColor=white"> <img src = "https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"> <img src = "https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src = "https://img.shields.io/badge/Csharp-EF5C55?style=flat&logo=csharp&logoColor=white"> <img src = "https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> <img src = "https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"> <img src = "https://img.shields.io/badge/OracleSQL-F80000?style=flat&logo=oracle&logoColor=white"> <img src = "https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
+
+## :hatching_chick: Skills of Interest
+* **Cloud Computing** Solutions Architect Associate (Main Interest)
+* **Android Studio** Kotlin
+* **Sentiment Analysis** Transformer, Bert, etc.
+* **Overlapping Clustering**

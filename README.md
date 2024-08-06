@@ -35,8 +35,9 @@
     4. As a result, an accuracy of approximately **94.12%** is achieved.
 
 ## :muscle: Certifications
-* **SQLD**(SQL Developer)
-* **DASP**(Data Architecture Semi Professional)
+* **SQLD**(SQL Developer) Not Expired
+* **DASP**(Data Architecture Semi Professional) Not Expired
+* **[SAA-C03](https://www.credly.com/badges/f9ba85ec-f331-4b09-aacc-a39dc16c93f6/public_url)** Expiration Date :  2027.08.06
 
 ## :star: Awards
 * **Gold Award** for Outstanding Research Paper Project in Computer Science upon graduation
